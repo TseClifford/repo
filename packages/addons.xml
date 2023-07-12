@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="repository.tseclifford" version="1.1.0" name="TseClifford Repository" provider-name="tseclifford">
+	<addon id="repository.tseclifford" version="1.1.1" name="TseClifford Repository" provider-name="TseClifford">
 		<extension point="xbmc.addon.repository" name="TseClifford Repository">
 			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/repo/zips/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/repo/zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/repo/zips/</datadir>
+				<info compressed="false">https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/packages/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/packages/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/packages/</datadir>
 			</dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
