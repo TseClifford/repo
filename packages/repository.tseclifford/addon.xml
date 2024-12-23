@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tseclifford" version="1.1.2" name="TseClifford Repository" provider-name="TseClifford">
+<addon id="repository.tseclifford" version="1.1.1" name="TseClifford Repository" provider-name="TseClifford">
   <extension point="xbmc.addon.repository" name="TseClifford Repository">
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/TseClifford/repository.tseclifford/master/packages/addons.xml</info>
